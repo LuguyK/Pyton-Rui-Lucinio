@@ -1,0 +1,12 @@
+comida = "leite com cafe"
+print("Pequeno almoço:")
+print(comida)
+comida = ("lazanha")
+print("Almoço:")
+print(comida)
+comida = ("salada")
+print("Jantar:")
+print(comida)
+comida = ("leite com ceriais")
+print("Ceia:")
+print(comida)
